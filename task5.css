@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(156, 156, 156, 0.653);
+}
+.tasks {
+  padding: 10px;
+  width: 300px;
+  height: 200px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+  margin:  auto;
+  text-align: center;
+}
+.add {
+  background-color: green;
+  border: 0px;
+  padding: 5px;
+  color: #fff;
+}
+ul {
+  list-style: none;
+}
+li {
+  background-color: rgba(156, 156, 156, 0.653);
+  margin: 2px 0;
+}
+
+.done {
+  text-decoration: line-through;
+}
